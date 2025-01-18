@@ -27,3 +27,15 @@
 <a target="_blank" href="https://www.instagram.com/agshin.dev" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=agshinzada&show_icons=true&locale=en" alt="agshinzada" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agshinzada&show_icons=true&locale=en&layout=compact" alt="agshinzada" /></p>
+<h2 align="left">Latest project screenshots</h2>
+
+###
+
+[<img align="left" height="200" src="https://agshin.dev/images/tamkart-cover.webp"  />](https://github.com/agshinzada/tamkart-clone)
+
+
+###
+
+[<img align="left" height="200" src="https://agshin.dev/images/technote-cover.webp"  />](https://github.com/agshinzada/technote-clone)
+
+###
