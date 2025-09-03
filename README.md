@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Agshin</h1>
-<p>I am a front-end developer specializing in e-commerce and ERP web applications. My passion for programming and attention to detail are reflected in the quality of my projects. My primary goal is to create modern and functional user experiences.</p>
+<p>I am a full stack developer specializing in e-commerce and ERP web applications. My passion for programming and attention to detail are reflected in the quality of my projects. My primary goal is to create modern and functional user experiences.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
